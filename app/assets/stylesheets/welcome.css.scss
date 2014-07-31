@@ -1,0 +1,29 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1  {
+  color: purple;
+}
+
+p#index-title {
+  text-align: center;
+  font-size: 15px;
+  color:  brown;
+}
+
+.wikis  {
+  border: solid;
+  margin: 5px;
+  padding:  5px;
+  height: 200px;
+}
+
+section {
+  background: 3599899;
+  border: solid;
+  margin: 5px;
+  padding:  5px;;
+  text-align: center;
+  height: 100px;
+}
